@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    float a,wynik;
+    printf("Wprowadz liczbe a: \n");
+    scanf("%f", &a);
+    wynik = (a-2)/4;
+    printf("Liczba wynosi: %f \n", wynik);
+    return 0;
+}

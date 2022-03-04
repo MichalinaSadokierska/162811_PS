@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    float a,b,c,wynik;
+    printf("Wprowadz liczbe a: \n");
+    scanf("%f", &a);
+    printf("Wprowadz liczbe b: \n");
+    scanf("%f", &b);
+    printf("Wprowadz liczbe c: \n");
+    scanf("%f", &c);
+    wynik = (a+b+c)/3;
+    printf("Liczba ca³kowita wynosi: %f \n", wynik);
+    return 0;
+}

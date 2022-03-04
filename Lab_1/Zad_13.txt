@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("   Ballada\n");
+    printf("To ballada o zabitej,\n");
+    printf("Ktora nagle z krzesla wstala.\n");
+    printf("Ulozona w dobrej wierze,\n");
+    printf("W swietle lampy rzecz sie miala.\n");
+    printf("Kazdy, kto chcial, widziec mogl.\n");
+    printf("Kiedy sie zamknely drzwi\n");
+    printf("I zabojca zbiegl ze schodow,\n");
+    printf("Ona wstala tak jak zywi\n");
+    printf("Nagla cisza obudzeni.\n");
+    printf("Ona wstala, rusza glow¹\n");
+    printf("I twardymi jak z pierscionka\n");
+    printf("Oczami patrzy po katach.\n");
+    printf("Nie unosi sie w powietrzu,\n");
+    printf("Ale po zwyklej podlodze,\n");
+    printf("Po skrzypiacych deskach stapa.\n");
+    printf("Wszystkie po zabojcach slady\n");
+    printf("Pali w piecu. Az do szczetu\n");
+    printf("Fotografii do imetu\n");
+    printf("Sznurowadla z dna szuflady.\n");
+    printf("Ona nie jest uduszona.\n");
+    printf("Ona nie jest zastrzelona.\n");
+    printf("Niewidoczna smierc poniosla.\n");
+    printf("Moze dawac znaki zycia,\n");
+    printf("Plakac z roznych drobnych przyczyn,\n");
+    printf("Nawet krzyczec z przerazenia\n");
+    printf("Na widok myszy.\n");
+    printf("Tak wiele\n");
+    printf("Jest slabosci i smiesznosci\n");
+    printf("Nietrudnych do podrobienia.\n");
+    printf("Ona wstala, jak sie wstaje.\n");
+    printf("Ona chodzi, jak sie chodzi.\n");
+    printf("Nawet spiewa czeszac wlosy,\n");
+    printf("Ktore rosna.\n");
+    return 0;
+}
